@@ -8,4 +8,4 @@ Features: <br>
   </ul>
 
 Youtube Link:  <br>
-Thingspeak channel Link: < a href> https://thingspeak.com/channels/1843139 </a> <br>
+Thingspeak channel Link:  https://thingspeak.com/channels/1843139  <br>
