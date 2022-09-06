@@ -8,7 +8,7 @@ Features: <br>
   </ul>
 <br>
 
-![My Image](setup2_git.jpg)
+![My Image](main setup.jpg)
 
 <br>
 Youtube Link:  <a href ="https://youtu.be/66s9SdI0HrA">EVM Demonstration</a><br>
