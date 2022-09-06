@@ -12,7 +12,7 @@ Features: <br>
   src="setup2_git.jpg"
   alt="Alt text"
   title="EVM"
-  style="display: inline-block; margin: 0 auto; max-width: 150px; height: 150px">
+  style="display: inline-block; margin: 0 auto; max-width: 300px; height: 300px">
 
 <br>
 
