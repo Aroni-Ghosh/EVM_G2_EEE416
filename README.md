@@ -12,13 +12,13 @@ Features: <br>
   src="setup2_git.jpg"
   alt="Alt text"
   title="EVM"
-  style="display: inline-block; margin: 0 auto; max-width: 200px; height: 200px">
+  style="display: inline-block; margin: 0 auto; max-width: 300px; height:300px">
   
   <img
   src="pcb.jpg"
   alt="Alt text"
   title="EVM"
-  style="display: inline-block; margin: 0 auto; max-width: 200px; height: 200px">
+  style="display: inline-block; margin: 0 auto; max-width: 300px; height: 300px">
 
 Youtube Link:  <a href ="https://youtu.be/66s9SdI0HrA">EVM Demonstration</a><br>
 Thingspeak channel Link: <a href="https://thingspeak.com/channels/1843139">EVM channel</a> <br>
