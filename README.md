@@ -18,7 +18,7 @@ Features: <br>
   src="pcb.jpg"
   alt="Alt text"
   title="EVM"
-  style="display: inline-block; margin: 0 auto; max-width: 350px; height: 350px">
+  style="display: inline-block; margin: 0 auto; max-width: 370px; height: 370px">
 
 Youtube Link:  <a href ="https://youtu.be/66s9SdI0HrA">EVM Demonstration</a><br>
 Thingspeak channel Link: <a href="https://thingspeak.com/channels/1843139">EVM channel</a> <br>
